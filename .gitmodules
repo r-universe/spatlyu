@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/spatlyu/spatlyu.r-universe.dev
 	branch = HEAD
+[submodule "gdverse"]
+	path = gdverse
+	url = https://github.com/SpatLyu/gdverse
 [submodule "spEcula"]
 	path = spEcula
 	url = https://github.com/SpatLyu/spEcula
