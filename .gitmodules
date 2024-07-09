@@ -5,6 +5,9 @@
 [submodule "gdverse"]
 	path = gdverse
 	url = https://github.com/SpatLyu/gdverse
+[submodule "geocomplexity"]
+	path = geocomplexity
+	url = https://github.com/SpatLyu/geocomplexity
 [submodule "spEcula"]
 	path = spEcula
 	url = https://github.com/SpatLyu/spEcula
