@@ -11,6 +11,9 @@
 [submodule "geocomplexity"]
 	path = geocomplexity
 	url = https://github.com/SpatLyu/geocomplexity
+[submodule "sdsfun"]
+	path = sdsfun
+	url = https://github.com/SpatLyu/sdsfun
 [submodule "spEcula"]
 	path = spEcula
 	url = https://github.com/SpatLyu/spEcula
