@@ -2,15 +2,9 @@
 	path = .registry
 	url = https://github.com/spatlyu/spatlyu.r-universe.dev
 	branch = HEAD
-[submodule "gdverse"]
-	path = gdverse
-	url = https://github.com/SpatLyu/gdverse
 [submodule "geocn"]
 	path = geocn
 	url = https://github.com/SpatLyu/geocn
-[submodule "geocomplexity"]
-	path = geocomplexity
-	url = https://github.com/SpatLyu/geocomplexity
 [submodule "sdsfun"]
 	path = sdsfun
 	url = https://github.com/SpatLyu/sdsfun
