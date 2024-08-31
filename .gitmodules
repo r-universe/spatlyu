@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/spatlyu/spatlyu.r-universe.dev
 	branch = HEAD
-[submodule "sdsfun"]
-	path = sdsfun
-	url = https://github.com/SpatLyu/sdsfun
 [submodule "spEcula"]
 	path = spEcula
 	url = https://github.com/SpatLyu/spEcula
