@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/spatlyu/spatlyu.r-universe.dev
 	branch = HEAD
+[submodule "HSAR"]
+	path = HSAR
+	url = https://github.com/SpatLyu/HSAR
 [submodule "spEcula"]
 	path = spEcula
 	url = https://github.com/SpatLyu/spEcula
